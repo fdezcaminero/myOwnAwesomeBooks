@@ -1,4 +1,4 @@
-import superLibrary from "./modules/library.js";
+import superLibrary from './modules/library.js';
 import loadBooks from './modules/loadBooks.js'
 
 const newTitle = document.getElementById('new-title');
