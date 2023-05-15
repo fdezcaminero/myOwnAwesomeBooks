@@ -1,4 +1,4 @@
-export default function showSection(sectionId) {
+const showSection = sectionId => {
   const section1 = document.getElementById('books');
   const section2 = document.getElementById('section2');
   const section3 = document.getElementById('section3');
@@ -17,3 +17,5 @@ export default function showSection(sectionId) {
     section3.classList.remove('hidden');
   }
 }
+
+export default showSection;
