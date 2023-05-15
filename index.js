@@ -1,6 +1,13 @@
 import superLibrary from './modules/library.js';
 import loadBooks from './modules/loadBooks.js';
 import showSection from './modules/showSection.js';
+import { DateTime } from './modules/luxon.js';
+
+const now = DateTime.now();
+
+const dateText = document.getElementById('dateID');
+
+dateText.textContent = now.toLocaleString(DateTime.DATETIME_MED);
 
 const newTitle = document.getElementById('new-title');
 const newAuthor = document.getElementById('new-author');
