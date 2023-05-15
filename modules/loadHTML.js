@@ -1,6 +1,6 @@
-import superLibrary from "./library.js";
+import superLibrary from './library.js';
 
-export default function loadHTML(index) {
+const loadHTML = index => {
   const superHTML = `
   <li class="book">
     <div class="book-details">
@@ -18,3 +18,5 @@ export default function loadHTML(index) {
     .getElementById(`remove-button${index}`)
     .addEventListener('click', () => superLibrary.removeBook(index));
 }
+
+export default loadHTML;

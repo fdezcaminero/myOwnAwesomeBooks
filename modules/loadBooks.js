@@ -1,7 +1,7 @@
-import superLibrary from "./library.js";
-import loadHTML from "./loadHTML.js";
+import superLibrary from './library.js';
+import loadHTML from './loadHTML.js';
 
-export default function loadBooks() {
+const loadBooks = () => {
   const booksAmount = superLibrary.books.length;
   const emptyHTML = '';
 
@@ -12,3 +12,5 @@ export default function loadBooks() {
 
   localStorage.setItem('books', JSON.stringify(superLibrary.books));
 }
+
+export default loadBooks;
