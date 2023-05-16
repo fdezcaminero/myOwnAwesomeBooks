@@ -1,10 +1,5 @@
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="/banner.jpg" alt="logo" />
-  <br/>
-
   <h1><b>Awesome-books</b></h1>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -85,7 +80,7 @@
 
 <!-- > Add a link to your deployed project. -->
 
-- [Awesome Books!]()
+- [Awesome Books!](https://fdezcaminero.github.io/myOwnAwesomeBooks/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
