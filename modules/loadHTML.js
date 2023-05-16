@@ -1,6 +1,6 @@
-import superLibrary from './library.js';
+import superLibrary from './library.js'; // eslint-disable-line import/no-cycle
 
-const loadHTML = index => {
+const loadHTML = (index) => {
   const superHTML = `
   <li class="book">
     <div class="book-details">
@@ -17,6 +17,6 @@ const loadHTML = index => {
   document
     .getElementById(`remove-button${index}`)
     .addEventListener('click', () => superLibrary.removeBook(index));
-}
+};
 
 export default loadHTML;

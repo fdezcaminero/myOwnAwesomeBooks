@@ -1,4 +1,4 @@
-import superLibrary from './library.js';
+import superLibrary from './library.js'; // eslint-disable-line import/no-cycle
 import loadHTML from './loadHTML.js';
 
 const loadBooks = () => {
@@ -11,6 +11,6 @@ const loadBooks = () => {
   }
 
   localStorage.setItem('books', JSON.stringify(superLibrary.books));
-}
+};
 
 export default loadBooks;

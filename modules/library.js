@@ -1,4 +1,4 @@
-import loadBooks from './loadBooks.js'
+import loadBooks from './loadBooks.js'; // eslint-disable-line import/no-cycle
 import Book from './book.js';
 
 const newTitle = document.getElementById('new-title');
