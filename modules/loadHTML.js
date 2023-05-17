@@ -1,4 +1,4 @@
-import superLibrary from './library.js'; // eslint-disable-line import/no-cycle
+import superLibrary from './library.js';
 
 const loadHTML = (index) => {
   const superHTML = `
