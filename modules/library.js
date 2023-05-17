@@ -55,13 +55,13 @@ class Library {
       this.books.push(newBook);
       newTitle.value = '';
       newAuthor.value = '';
-      this.loadBooks(); // eslint-disable-line no-use-before-define
+      this.loadBooks();
     }
   }
 
   removeBook(index) {
     this.books.splice(index, 1);
-    this.loadBooks(); // eslint-disable-line no-use-before-define
+    this.loadBooks();
   }
 }
 
