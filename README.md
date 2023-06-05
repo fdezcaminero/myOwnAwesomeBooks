@@ -2,8 +2,6 @@
   <h1><b>Awesome-books</b></h1>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -23,19 +21,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Awesome-books] <a name="about-project"></a>
-
-<!-- > Describe your project in 1 or 2 sentences. -->
 
 **[Awesome-books]** is a project that makes a list of your favorite books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
 <details>
   <summary>Client</summary>
@@ -62,11 +54,7 @@
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
-
-<!-- > Describe between 1-3 key features of the application. -->
 
 - **[Use medium-fidelity warframe to build the project]**
 - **[Responsive design for multiple screens]**
@@ -180,8 +168,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -190,20 +176,13 @@ Feel free to check the [issues page](https://github.com/victormc13/First-Capston
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
-
-<!-- > Write a message to encourage readers to support your project -->
 
 If you like this project you can reach out with me in []()
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
 I would like to thank Microverse for giving us this opportunity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -223,8 +202,6 @@ I would like to thank Microverse for giving us this opportunity.
   - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
