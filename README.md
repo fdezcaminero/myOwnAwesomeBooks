@@ -74,21 +74,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-<!-- > Add a link to your deployed project. -->
 
 - [Awesome Books!](https://fdezcaminero.github.io/myOwnAwesomeBooks/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
-<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -97,14 +89,6 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need: 
 
 None
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -174,11 +158,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Author <a name="author"></a>
-
-<!-- > Mention all of the collaborators of this project. -->
 
 👤 **José Fernández-Caminero**
 
