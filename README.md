@@ -21,7 +21,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Awesome-books] <a name="about-project"></a>
+# 📖 Awesome-books <a name="about-project"></a>
 
 **[Awesome-books]** is a project that makes a list of your favorite books.
 
