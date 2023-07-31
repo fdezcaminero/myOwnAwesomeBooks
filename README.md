@@ -23,7 +23,7 @@
 
 # 📖 Awesome-books <a name="about-project"></a>
 
-**[Awesome-books]** is a project that makes a list of your favorite books.
+**Awesome-books** is a project that makes a list of your favorite books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
