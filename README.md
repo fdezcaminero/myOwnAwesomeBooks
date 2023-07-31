@@ -162,9 +162,9 @@ Example:
 
 <!-- > Describe 1 - 3 features you will add to the project. -->
 
-- [ ] **[Add more style to the project]**
-- [ ] **[Improve accessibility of the page]**
-- [ ] **[Improve the performance of the page]**
+- [ ] **Add more style to the project**
+- [ ] **Improve accessibility of the page**
+- [ ] **Improve the performance of the page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
