@@ -56,9 +56,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Use medium-fidelity warframe to build the project]**
-- **[Responsive design for multiple screens]**
-- **[Use of javascript to change the content of the page]**
+- **Use medium-fidelity warframe to build the project**
+- **Responsive design for multiple screens**
+- **Use of javascript to change the content of the page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
