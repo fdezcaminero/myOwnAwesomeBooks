@@ -109,7 +109,7 @@ Example command:
 
 To run the project, execute the following command:
 
-- go to the folder where you cloned the repository
+- Go to the folder where you cloned the repository
 - Open the index.html file with your favorite web browser
 
 <!--
